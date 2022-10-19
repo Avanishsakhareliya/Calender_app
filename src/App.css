@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.headerTitle{
+  display: flex;
+  justify-content: center;
+}
+.datepicker{
+  margin: 20px 20px 20px 20px;
+  display: flex;
+}
+
+.noHoliday{
+  text-align: center;
+}
+
+.mainBox{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
